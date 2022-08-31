@@ -1,2 +1,4 @@
 #!/bin/bash
-School
+The school is now open>>sc
+clear
+echo The school is open
